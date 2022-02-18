@@ -1,0 +1,622 @@
+{
+	"meta": {
+		"ruid": "UmFuZG9tSVYkc2RlIyh9YYJ79GofoiDJwFt2NOUAKSjzflkTfK9XvuV4mcN32MeMjkN1oDFVOcc7j7enSGIuRiuxlOMHAim4V18d+agN0MQ="
+	},
+	"result": [
+		{
+			"direct_payment": true,
+			"default_language": "en",
+			"rooms": [
+				{
+					"room_id": 25769401,
+					"room_type_id": 9,
+					"room_name": "Deluxe Queen Room",
+					"adults": 2,
+					"num_rooms_available_at_this_price": 10,
+					"children": [],
+					"price": 169.15,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"deposit_required": false,
+					"refundable": true,
+					"block_id": "25769401_250434821_2_2_0"
+				}
+			],
+			"hotel_id": 257694,
+			"checkin_time": {
+				"from": "14:00",
+				"until": ""
+			},
+			"address": "60-62 Harbour Street, Wollongong",
+			"price": 169.15,
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"hotel_name": "Sage Hotel Wollongong",
+			"stars": "4",
+			"postcode": "2500"
+		},
+		{
+			"rooms": [
+				{
+					"room_name": "Studio",
+					"room_type_id": 12,
+					"room_id": 3796101,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"adults": 2,
+					"num_rooms_available_at_this_price": 10,
+					"block_id": "3796101_221284622_2_0_0",
+					"deposit_required": false,
+					"children": [],
+					"price": 278.1,
+					"refundable": true
+				}
+			],
+			"hotel_id": 37961,
+			"default_language": "en",
+			"direct_payment": true,
+			"postcode": "2500",
+			"stars": "4.5",
+			"hotel_name": "Adina Apartment Hotel Wollongong",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"price": 278.1,
+			"address": "19 Market Street, Wollongong",
+			"checkin_time": {
+				"until": "",
+				"from": "14:00"
+			}
+		},
+		{
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"hotel_name": "Mantra Wollongong",
+			"postcode": "2500",
+			"stars": "4.5",
+			"checkin_time": {
+				"until": "18:00",
+				"from": "14:00"
+			},
+			"address": "6-10 Gladstone Avenue, Wollongong",
+			"price": 199.0,
+			"default_language": "en",
+			"hotel_id": 37571,
+			"rooms": [
+				{
+					"room_id": 3757101,
+					"room_type_id": 9,
+					"room_name": "Superior One-Bedroom Apartment",
+					"adults": 2,
+					"num_rooms_available_at_this_price": 10,
+					"children": [],
+					"deposit_required": true,
+					"refundable": true,
+					"price": 199.0,
+					"block_id": "3757101_232551694_0_0_0",
+					"refundable_until": "2021-04-03 23:59:59 +1100"
+				}
+			]
+		},
+		{
+			"default_language": "xu",
+			"hotel_id": 5443229,
+			"rooms": [
+				{
+					"block_id": "544322901_195774755_0_0_0",
+					"refundable": false,
+					"deposit_required": true,
+					"refundable_until": "",
+					"price": 162.0,
+					"children": [],
+					"adults": 2,
+					"num_rooms_available_at_this_price": 2,
+					"room_name": "Standard Queen Room - Non-refundable",
+					"room_id": 544322901,
+					"room_type_id": 9
+				}
+			],
+			"price": 162.0,
+			"address": "28 Bridge Street, Wollongong",
+			"checkin_time": {
+				"until": "00:00",
+				"from": "14:00"
+			},
+			"hotel_name": "Coniston Hotel Wollongong",
+			"stars": "4",
+			"postcode": "2500",
+			"country": "au",
+			"hotel_currency_code": "AUD"
+		},
+		{
+			"direct_payment": true,
+			"checkin_time": {
+				"until": "23:00",
+				"from": "14:00"
+			},
+			"address": "222-226 Lawrence Hargrave Drive, Thirroul., Wollongong",
+			"price": 230.0,
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"default_language": "en",
+			"hotel_name": "Thirroul Beach Motel",
+			"postcode": "2515",
+			"rooms": [
+				{
+					"block_id": "234739102_265500209_2_0_0",
+					"deposit_required": true,
+					"refundable": true,
+					"room_name": "Deluxe Queen Room",
+					"room_id": 234739102,
+					"room_type_id": 7,
+					"refundable_until": "2021-04-02 23:59:59 +1100",
+					"num_rooms_available_at_this_price": 4,
+					"adults": 2,
+					"children": [],
+					"price": 230.0
+				}
+			],
+			"hotel_id": 2347391
+		},
+		{
+			"country": "au",
+			"hotel_currency_code": "AUD",
+			"postcode": "2518",
+			"stars": "4",
+			"hotel_name": "Quality Suites Pioneer Sands",
+			"checkin_time": {
+				"from": "14:00",
+				"until": "20:00"
+			},
+			"price": 206.1,
+			"address": "19 Carters Lane, Wollongong",
+			"hotel_id": 366962,
+			"rooms": [
+				{
+					"block_id": "36696203_94450855_2_2_0",
+					"deposit_required": true,
+					"refundable": false,
+					"room_name": "Studio with Balcony - Non-refundable",
+					"room_id": 36696203,
+					"room_type_id": 12,
+					"num_rooms_available_at_this_price": 3,
+					"adults": 2,
+					"price": 206.1,
+					"children": [],
+					"refundable_until": ""
+				}
+			],
+			"default_language": "en",
+			"direct_payment": true
+		},
+		{
+			"rooms": [
+				{
+					"room_name": "Queen Room with Two Queen Beds and City View",
+					"room_type_id": 9,
+					"room_id": 3556901,
+					"block_id": "3556901_269134330_2_2_0",
+					"children": [],
+					"refundable": true,
+					"deposit_required": true,
+					"price": 449.1,
+					"adults": 2,
+					"num_rooms_available_at_this_price": 7,
+					"refundable_until": "2021-04-01 23:59:59 +1100"
+				}
+			],
+			"hotel_id": 35569,
+			"default_language": "en",
+			"direct_payment": true,
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"stars": "4",
+			"postcode": "2520",
+			"hotel_name": "Novotel Wollongong Northbeach",
+			"checkin_time": {
+				"from": "14:00",
+				"until": ""
+			},
+			"address": "2-14 Cliff Road, Wollongong",
+			"price": 449.1
+		},
+		{
+			"direct_payment": true,
+			"default_language": "en",
+			"rooms": [
+				{
+					"room_name": "Double Room with Air-Conditioning - Non-refundable",
+					"room_id": 29807907,
+					"room_type_id": 9,
+					"block_id": "29807907_88835342_0_0_0",
+					"price": 172.0,
+					"children": [],
+					"refundable": false,
+					"deposit_required": true,
+					"adults": 2,
+					"num_rooms_available_at_this_price": 10,
+					"refundable_until": ""
+				}
+			],
+			"hotel_id": 298079,
+			"checkin_time": {
+				"from": "14:00",
+				"until": "19:00"
+			},
+			"price": 172.0,
+			"address": "201 Pioneer Road, Fairy Meadow, Wollongong",
+			"country": "au",
+			"hotel_currency_code": "AUD",
+			"hotel_name": "Wollongong Surf Leisure Resort",
+			"stars": "4",
+			"postcode": "2519"
+		},
+		{
+			"price": 169.26,
+			"address": "54 Kembla Street, Wollongong",
+			"checkin_time": {
+				"until": "16:00",
+				"from": "14:00"
+			},
+			"hotel_name": "Wollongong Serviced Apartments",
+			"stars": "4",
+			"postcode": "2500",
+			"country": "au",
+			"hotel_currency_code": "AUD",
+			"direct_payment": true,
+			"default_language": "en",
+			"hotel_id": 273362,
+			"rooms": [
+				{
+					"num_rooms_available_at_this_price": 6,
+					"adults": 2,
+					"deposit_required": true,
+					"children": [],
+					"price": 169.26,
+					"refundable": false,
+					"block_id": "27336201_80557465_0_0_0",
+					"refundable_until": "",
+					"room_id": 27336201,
+					"room_type_id": 1,
+					"room_name": "One-Bedroom Apartment - Non-refundable"
+				}
+			]
+		},
+		{
+			"address": "7-9 Wilson Street, Wollongong",
+			"price": 190.0,
+			"checkin_time": {
+				"until": "20:00",
+				"from": "14:00"
+			},
+			"stars": "3",
+			"postcode": "2500",
+			"hotel_name": "Boat Harbour Motel",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"direct_payment": true,
+			"rooms": [
+				{
+					"refundable_until": "2021-03-30 23:59:59 +1100",
+					"price": 190.0,
+					"children": [],
+					"adults": 2,
+					"num_rooms_available_at_this_price": 10,
+					"room_name": "City Queen",
+					"room_id": 27334201,
+					"room_type_id": 9,
+					"block_id": "27334201_266305329_0_0_0",
+					"refundable": true,
+					"deposit_required": true
+				}
+			],
+			"hotel_id": 273342,
+			"default_language": "en"
+		},
+		{
+			"default_language": "en",
+			"rooms": [
+				{
+					"adults": 2,
+					"num_rooms_available_at_this_price": 1,
+					"block_id": "65934302_279740163_0_0_0",
+					"children": [],
+					"price": 175.56,
+					"refundable": true,
+					"deposit_required": true,
+					"refundable_until": "2021-04-02 23:59:59 +1100",
+					"room_name": "Queen Studio",
+					"room_id": 65934302,
+					"room_type_id": 9
+				}
+			],
+			"hotel_id": 659343,
+			"direct_payment": true,
+			"country": "au",
+			"hotel_currency_code": "AUD",
+			"hotel_name": "The Belmore All-Suite Hotel",
+			"postcode": "2500",
+			"stars": "3.5",
+			"checkin_time": {
+				"until": "18:30",
+				"from": "14:00"
+			},
+			"address": "39 Smith Street, Wollongong",
+			"price": 175.56
+		},
+		{
+			"direct_payment": true,
+			"default_language": "en",
+			"hotel_id": 434806,
+			"rooms": [
+				{
+					"block_id": "43480603_272801178_0_0_0",
+					"refundable": true,
+					"deposit_required": false,
+					"room_name": "Queen Room",
+					"room_id": 43480603,
+					"room_type_id": 9,
+					"price": 117.0,
+					"children": [],
+					"adults": 2,
+					"num_rooms_available_at_this_price": 10,
+					"refundable_until": "2021-04-03 23:59:59 +1100"
+				}
+			],
+			"price": 117.0,
+			"address": "111 Princes Highway (cross street Gibsons Road), Wollongong",
+			"checkin_time": {
+				"until": "21:00",
+				"from": "13:00"
+			},
+			"hotel_name": "Solomon Inn Wollongong",
+			"postcode": "2525",
+			"stars": "3.5",
+			"country": "au",
+			"hotel_currency_code": "AUD"
+		},
+		{
+			"checkin_time": {
+				"until": "19:00",
+				"from": "14:00"
+			},
+			"direct_payment": true,
+			"price": 310.8,
+			"address": "65 Church Street, Wollongong",
+			"country": "au",
+			"hotel_currency_code": "AUD",
+			"hotel_id": 6330872,
+			"rooms": [
+				{
+					"adults": 2,
+					"num_rooms_available_at_this_price": 4,
+					"price": 310.8,
+					"children": [],
+					"refundable_until": "",
+					"room_name": "One-Bedroom Apartment - Non-refundable",
+					"room_id": 633087201,
+					"room_type_id": 1,
+					"block_id": "633087201_247091995_0_0_0",
+					"refundable": false,
+					"deposit_required": true
+				}
+			],
+			"postcode": "2500",
+			"default_language": "en",
+			"hotel_name": "Argo Apartments"
+		},
+		{
+			"direct_payment": true,
+			"rooms": [
+				{
+					"block_id": "25447402_277132731_0_0_0",
+					"deposit_required": true,
+					"refundable": true,
+					"refundable_until": "2021-04-02 23:59:59 +1100",
+					"price": 199.0,
+					"children": [],
+					"adults": 2,
+					"num_rooms_available_at_this_price": 10,
+					"room_name": "One-Bedroom Apartment",
+					"room_type_id": 1,
+					"room_id": 25447402
+				}
+			],
+			"hotel_id": 254474,
+			"default_language": "en",
+			"checkin_time": {
+				"from": "14:00",
+				"until": "20:00"
+			},
+			"price": 199.0,
+			"address": "59 - 61 Kembla Street, Wollongong",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"postcode": "2500",
+			"stars": "4",
+			"hotel_name": "Quest Wollongong"
+		},
+		{
+			"price": 160.0,
+			"address": "19 Flinders Street, Wollongong",
+			"checkin_time": {
+				"until": "17:00",
+				"from": "14:00"
+			},
+			"postcode": "2500",
+			"stars": "3",
+			"hotel_name": "Flinders Motel",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"direct_payment": true,
+			"rooms": [
+				{
+					"room_id": 43189402,
+					"room_type_id": 9,
+					"room_name": "Standard Double Room",
+					"refundable_until": "2021-04-02 23:59:59 +1100",
+					"children": [],
+					"price": 160.0,
+					"adults": 2,
+					"num_rooms_available_at_this_price": 5,
+					"refundable": true,
+					"deposit_required": false,
+					"block_id": "43189402_107995502_0_40_0"
+				}
+			],
+			"hotel_id": 431894,
+			"default_language": "en"
+		},
+		{
+			"checkin_time": {
+				"until": "21:30",
+				"from": "14:00"
+			},
+			"price": 132.0,
+			"address": "Cnr Kanahooka Drive and Prince Edward Drive, Dapto, Wollongong",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"hotel_name": "Elsinor Motor Lodge",
+			"postcode": "2530",
+			"stars": "3",
+			"direct_payment": true,
+			"default_language": "en",
+			"hotel_id": 460208,
+			"rooms": [
+				{
+					"room_name": "Standard Double Room",
+					"room_type_id": 9,
+					"room_id": 46020803,
+					"refundable_until": "2021-03-28 23:59:59 +1100",
+					"price": 132.0,
+					"children": [],
+					"num_rooms_available_at_this_price": 5,
+					"adults": 2,
+					"block_id": "46020803_201614797_2_0_0",
+					"deposit_required": true,
+					"refundable": true
+				}
+			]
+		},
+		{
+			"address": "30 Bourke Street, Wollongong",
+			"price": 100.16,
+			"checkin_time": {
+				"from": "14:00",
+				"until": "23:00"
+			},
+			"postcode": "2500",
+			"stars": "3",
+			"hotel_name": "Normandie Inn and Function Centre",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"hotel_id": 319081,
+			"rooms": [
+				{
+					"room_id": 31908112,
+					"room_type_id": 9,
+					"room_name": "Double Room with Shared Bathroom - Non-refundable",
+					"refundable_until": "",
+					"num_rooms_available_at_this_price": 1,
+					"adults": 2,
+					"children": [],
+					"price": 100.16,
+					"refundable": false,
+					"deposit_required": true,
+					"block_id": "31908112_242893103_0_0_0"
+				}
+			],
+			"default_language": "en"
+		},
+		{
+			"stars": "3",
+			"postcode": "2518",
+			"hotel_name": "Comfort Inn Towradgi Beach",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"price": 179.1,
+			"address": "170 Pioneer Road, Wollongong",
+			"checkin_time": {
+				"from": "14:00",
+				"until": "20:00"
+			},
+			"rooms": [
+				{
+					"price": 179.1,
+					"children": [],
+					"num_rooms_available_at_this_price": 5,
+					"adults": 2,
+					"refundable_until": "",
+					"room_name": "King Room - Non-Smoking - Non-refundable",
+					"room_type_id": 7,
+					"room_id": 136472107,
+					"block_id": "136472107_93780476_3_0_0",
+					"deposit_required": true,
+					"refundable": false
+				}
+			],
+			"hotel_id": 1364721,
+			"default_language": "xu",
+			"direct_payment": true
+		},
+		{
+			"direct_payment": true,
+			"default_language": "en",
+			"rooms": [
+				{
+					"refundable": false,
+					"deposit_required": true,
+					"price": 202.5,
+					"children": [],
+					"block_id": "105410503_119796107_0_0_0",
+					"num_rooms_available_at_this_price": 1,
+					"adults": 2,
+					"refundable_until": "",
+					"room_type_id": 5,
+					"room_id": 105410503,
+					"room_name": "King Suite with Sea View - Non-refundable"
+				}
+			],
+			"hotel_id": 1054105,
+			"checkin_time": {
+				"from": "14:00",
+				"until": "22:00"
+			},
+			"price": 202.5,
+			"address": "19 Southview Street, Bulli, Wollongong",
+			"hotel_currency_code": "AUD",
+			"country": "au",
+			"hotel_name": "Southview Guest House",
+			"postcode": "2516",
+			"stars": "4"
+		},
+		{
+			"hotel_name": "City Beach Motel",
+			"stars": "3",
+			"postcode": "2500",
+			"country": "au",
+			"hotel_currency_code": "AUD",
+			"address": "22 Crown Street, Wollongong",
+			"price": 129.0,
+			"checkin_time": {
+				"from": "14:00",
+				"until": ""
+			},
+			"default_language": "en",
+			"hotel_id": 451744,
+			"rooms": [
+				{
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"block_id": "45174405_190287919_2_0_0",
+					"deposit_required": true,
+					"refundable": true,
+					"price": 129.0,
+					"children": [],
+					"num_rooms_available_at_this_price": 2,
+					"adults": 2,
+					"room_name": "Standard Double or Twin Room",
+					"room_id": 45174405,
+					"room_type_id": 24
+				}
+			],
+			"direct_payment": true
+		}
+	]
+}

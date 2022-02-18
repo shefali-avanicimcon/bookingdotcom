@@ -1,0 +1,1025 @@
+{
+	"meta": {
+		"ruid": "UmFuZG9tSVYkc2RlIyh9YYJ79GofoiDJnu7poHPIeSdcv1TBkeEhV7w9g6DocagJpPZIh6UDQjrYyD3e6r9PRRE7ai7o9kOrnvv4jlRvL7I="
+	},
+	"result": [
+		{
+			"checkin": "2021-04-05",
+			"is_flash_deal": false,
+			"hotel_id": 257694,
+			"block": [
+				{
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"price": 169.15,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 338.3
+						},
+						{
+							"price": 507.45,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 676.6
+						},
+						{
+							"currency": "AUD",
+							"price": 845.75
+						},
+						{
+							"price": 1014.9,
+							"currency": "AUD"
+						},
+						{
+							"price": 1184.05,
+							"currency": "AUD"
+						},
+						{
+							"price": 1353.2,
+							"currency": "AUD"
+						},
+						{
+							"price": 1522.35,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1691.5
+						}
+					],
+					"min_price": {
+						"price": 169.15,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"deposit_required": false,
+					"taxes": "10 % VAT",
+					"breakfast_included": false,
+					"name": "Deluxe Queen Room - single occupancy",
+					"photos": "",
+					"block_id": "25769401_250434821_1_2_0",
+					"refundable": true,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"max_occupancy": 1,
+					"room_description": "Located on the southern side of the hotel, these rooms overlook Wollongong city or Wollongong golf course. They offer a 40-inch flat-screen TV, free cable Internet and free WiFi. There is a coffee machine and tea making facilities. Windows can be opened to allow fresh air into the room. It has 1 queen size bed only.\n\nPlease note that this room has no capacity for additional guests.",
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"room_id": 25769401
+				},
+				{
+					"room_id": 25769414,
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"refundable": true,
+					"room_description": "Located on the southern side of the hotel, these rooms overlook Wollongong city or Wollongong golf course. They offer a 40-inch flat-screen TV and free WiFi. There is a coffee machine and tea making facilities. It has 2 single size beds.\n\nPlease note that this room has no capacity for additional guests.",
+					"max_occupancy": 1,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"block_id": "25769414_250434821_1_2_0",
+					"photos": "",
+					"name": "Deluxe Twin Room - single occupancy",
+					"breakfast_included": false,
+					"deposit_required": false,
+					"min_price": {
+						"price": 169.15,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"taxes": "10 % VAT",
+					"incremental_price": [
+						{
+							"price": 169.15,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"price": 338.3,
+							"currency": "AUD"
+						},
+						{
+							"price": 507.45,
+							"currency": "AUD"
+						},
+						{
+							"price": 676.6,
+							"currency": "AUD"
+						},
+						{
+							"price": 845.75,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1014.9
+						},
+						{
+							"price": 1184.05,
+							"currency": "AUD"
+						},
+						{
+							"price": 1353.2,
+							"currency": "AUD"
+						},
+						{
+							"price": 1522.35,
+							"currency": "AUD"
+						},
+						{
+							"price": 1691.5,
+							"currency": "AUD"
+						}
+					],
+					"is_flash_deal": false
+				},
+				{
+					"name": "Deluxe Queen Room",
+					"photos": "",
+					"block_id": "25769401_250434821_2_2_0",
+					"max_occupancy": 2,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"room_description": "Located on the southern side of the hotel, these rooms overlook Wollongong city or Wollongong golf course. They offer a 40-inch flat-screen TV, free cable Internet and free WiFi. There is a coffee machine and tea making facilities. Windows can be opened to allow fresh air into the room. It has 1 queen size bed only.\n\nPlease note that this room has no capacity for additional guests.",
+					"refundable": true,
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"room_id": 25769401,
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"price": 169.15,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"price": 338.3,
+							"currency": "AUD"
+						},
+						{
+							"price": 507.45,
+							"currency": "AUD"
+						},
+						{
+							"price": 676.6,
+							"currency": "AUD"
+						},
+						{
+							"price": 845.75,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1014.9
+						},
+						{
+							"currency": "AUD",
+							"price": 1184.05
+						},
+						{
+							"currency": "AUD",
+							"price": 1353.2
+						},
+						{
+							"currency": "AUD",
+							"price": 1522.35
+						},
+						{
+							"currency": "AUD",
+							"price": 1691.5
+						}
+					],
+					"taxes": "10 % VAT",
+					"min_price": {
+						"price": 169.15,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"deposit_required": false,
+					"breakfast_included": false
+				},
+				{
+					"incremental_price": [
+						{
+							"price": 169.15,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 338.3
+						},
+						{
+							"currency": "AUD",
+							"price": 507.45
+						},
+						{
+							"price": 676.6,
+							"currency": "AUD"
+						},
+						{
+							"price": 845.75,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1014.9
+						},
+						{
+							"currency": "AUD",
+							"price": 1184.05
+						},
+						{
+							"price": 1353.2,
+							"currency": "AUD"
+						},
+						{
+							"price": 1522.35,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1691.5
+						}
+					],
+					"is_flash_deal": false,
+					"breakfast_included": false,
+					"taxes": "10 % VAT",
+					"deposit_required": false,
+					"min_price": {
+						"price": 169.15,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"room_description": "Located on the southern side of the hotel, these rooms overlook Wollongong city or Wollongong golf course. They offer a 40-inch flat-screen TV and free WiFi. There is a coffee machine and tea making facilities. It has 2 single size beds.\n\nPlease note that this room has no capacity for additional guests.",
+					"max_occupancy": 2,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"refundable": true,
+					"block_id": "25769414_250434821_2_2_0",
+					"photos": "",
+					"name": "Deluxe Twin Room",
+					"room_id": 25769414,
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					}
+				},
+				{
+					"rack_rate": {
+						"currency": "AUD",
+						"price": 0.0
+					},
+					"room_id": 25769402,
+					"refundable": true,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"max_occupancy": 1,
+					"room_description": "These rooms either overlook the Wollongong CBD and escarpment or on the southern side of the building overlooking Wollongong Golf Course. They feature a king zip bed or 2 single beds. They offer a 40-inch flat-screen TV, in-room safe, free cable Internet and free WiFi. There is a balcony with a small coffee table and 2 outdoor chairs.\n\nPlease note that there is no capacity for additional guests.",
+					"name": "Executive King Room with Balcony - single occupancy",
+					"block_id": "25769402_250434821_1_2_0",
+					"photos": "",
+					"breakfast_included": false,
+					"deposit_required": false,
+					"min_price": {
+						"price": 177.65,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"taxes": "10 % VAT",
+					"incremental_price": [
+						{
+							"price": 177.65,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"price": 355.3,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 532.95
+						},
+						{
+							"currency": "AUD",
+							"price": 710.6
+						},
+						{
+							"price": 888.25,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1065.9
+						},
+						{
+							"currency": "AUD",
+							"price": 1243.55
+						},
+						{
+							"currency": "AUD",
+							"price": 1421.2
+						},
+						{
+							"price": 1598.85,
+							"currency": "AUD"
+						},
+						{
+							"price": 1776.5,
+							"currency": "AUD"
+						}
+					],
+					"is_flash_deal": false
+				},
+				{
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"room_id": 25769402,
+					"refundable": true,
+					"max_occupancy": 2,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"room_description": "These rooms either overlook the Wollongong CBD and escarpment or on the southern side of the building overlooking Wollongong Golf Course. They feature a king zip bed or 2 single beds. They offer a 40-inch flat-screen TV, in-room safe, free cable Internet and free WiFi. There is a balcony with a small coffee table and 2 outdoor chairs.\n\nPlease note that there is no capacity for additional guests.",
+					"name": "Executive King Room with Balcony",
+					"photos": "",
+					"block_id": "25769402_250434821_2_2_0",
+					"breakfast_included": false,
+					"deposit_required": false,
+					"min_price": {
+						"price": 177.65,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"taxes": "10 % VAT",
+					"incremental_price": [
+						{
+							"price": 177.65,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 355.3
+						},
+						{
+							"currency": "AUD",
+							"price": 532.95
+						},
+						{
+							"currency": "AUD",
+							"price": 710.6
+						},
+						{
+							"price": 888.25,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1065.9
+						},
+						{
+							"price": 1243.55,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1421.2
+						},
+						{
+							"currency": "AUD",
+							"price": 1598.85
+						},
+						{
+							"currency": "AUD",
+							"price": 1776.5
+						}
+					],
+					"is_flash_deal": false
+				},
+				{
+					"room_id": 25769403,
+					"rack_rate": {
+						"currency": "AUD",
+						"price": 0.0
+					},
+					"photos": "",
+					"block_id": "25769403_250434821_1_2_0",
+					"name": "Executive Double Suite - single occupancy",
+					"room_description": "Located on the northern side of the hotel, these suites overlook Wollongong CBD and the escarpment. Stretch out and relax in this spacious room with 2 queen-sized beds. The rooms include a 40-inch flat screen TV and free WiFi. They offer tea and coffee making facilities including a coffee machine and a balcony. There is a double vanity in the spacious bathroom.\n\nPlease note that the price is based on 4 guests. Maximum occupancy is 5 (see Hotel Policies). The 5th guest will be accommodated on a rollaway bed. Extra beds are subject to availability and will be confirmed prior to arrival.\n\nPlease advise the property of the number of guests staying in each room. You can use the Special Requests box when booking, or contact the property prior to arrival using the contact details found on the booking confirmation.",
+					"max_occupancy": 1,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"refundable": true,
+					"taxes": "10 % VAT",
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 194.65
+					},
+					"deposit_required": false,
+					"breakfast_included": false,
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 194.65
+						},
+						{
+							"price": 389.3,
+							"currency": "AUD"
+						},
+						{
+							"price": 583.95,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 778.6
+						},
+						{
+							"currency": "AUD",
+							"price": 973.25
+						},
+						{
+							"price": 1167.9,
+							"currency": "AUD"
+						},
+						{
+							"price": 1362.55,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1557.2
+						},
+						{
+							"price": 1751.85,
+							"currency": "AUD"
+						},
+						{
+							"price": 1946.5,
+							"currency": "AUD"
+						}
+					]
+				},
+				{
+					"room_id": 25769403,
+					"rack_rate": {
+						"currency": "AUD",
+						"price": 0.0
+					},
+					"refundable": true,
+					"room_description": "Located on the northern side of the hotel, these suites overlook Wollongong CBD and the escarpment. Stretch out and relax in this spacious room with 2 queen-sized beds. The rooms include a 40-inch flat screen TV and free WiFi. They offer tea and coffee making facilities including a coffee machine and a balcony. There is a double vanity in the spacious bathroom.\n\nPlease note that the price is based on 4 guests. Maximum occupancy is 5 (see Hotel Policies). The 5th guest will be accommodated on a rollaway bed. Extra beds are subject to availability and will be confirmed prior to arrival.\n\nPlease advise the property of the number of guests staying in each room. You can use the Special Requests box when booking, or contact the property prior to arrival using the contact details found on the booking confirmation.",
+					"max_occupancy": 2,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"block_id": "25769403_250434821_2_2_0",
+					"photos": "",
+					"name": "Executive Double Suite",
+					"breakfast_included": false,
+					"min_price": {
+						"price": 194.65,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"deposit_required": false,
+					"taxes": "10 % VAT",
+					"incremental_price": [
+						{
+							"price": 194.65,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"price": 389.3,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 583.95
+						},
+						{
+							"currency": "AUD",
+							"price": 778.6
+						},
+						{
+							"currency": "AUD",
+							"price": 973.25
+						},
+						{
+							"currency": "AUD",
+							"price": 1167.9
+						},
+						{
+							"currency": "AUD",
+							"price": 1362.55
+						},
+						{
+							"currency": "AUD",
+							"price": 1557.2
+						},
+						{
+							"currency": "AUD",
+							"price": 1751.85
+						},
+						{
+							"price": 1946.5,
+							"currency": "AUD"
+						}
+					],
+					"is_flash_deal": false
+				},
+				{
+					"breakfast_included": false,
+					"taxes": "10 % VAT",
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 211.65
+					},
+					"deposit_required": false,
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 211.65
+						},
+						{
+							"currency": "AUD",
+							"price": 423.3
+						},
+						{
+							"currency": "AUD",
+							"price": 634.95
+						},
+						{
+							"price": 846.6,
+							"currency": "AUD"
+						},
+						{
+							"price": 1058.25,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1269.9
+						},
+						{
+							"currency": "AUD",
+							"price": 1481.55
+						},
+						{
+							"currency": "AUD",
+							"price": 1693.2
+						},
+						{
+							"price": 1904.85,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 2116.5
+						}
+					],
+					"is_flash_deal": false,
+					"room_id": 25769404,
+					"rack_rate": {
+						"currency": "AUD",
+						"price": 0.0
+					},
+					"room_description": "Located on the northern side of the hotel overlooking Wollongong CBD and escarpment, these suites include a king-size bed, and a double sofa bed and a single sofa bed in a separate area. They offer a 40-inch flat-screen TV and a private balcony. The bedroom has an adjoining mini lounge area with a lounge set, second flat-screen TV. There is also a private balcony, basic kitchenette, fridge and 5 piece setting.\n\nPlease note that the rate is based on 2 adults. The maximum occupancy is 2 adults or 2 adults and 2 children. For additional charges, see Hotel Policies. Please note that the additional guests will be accommodated on sofa beds in the living area.",
+					"max_occupancy": 1,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"refundable": true,
+					"photos": "",
+					"block_id": "25769404_250434821_1_2_0",
+					"name": "Family Suite - single occupancy"
+				},
+				{
+					"refundable": true,
+					"max_occupancy": 2,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"room_description": "Located on the northern side of the hotel overlooking Wollongong CBD and escarpment, these suites include a king-size bed, and a double sofa bed and a single sofa bed in a separate area. They offer a 40-inch flat-screen TV and a private balcony. The bedroom has an adjoining mini lounge area with a lounge set, second flat-screen TV. There is also a private balcony, basic kitchenette, fridge and 5 piece setting.\n\nPlease note that the rate is based on 2 adults. The maximum occupancy is 2 adults or 2 adults and 2 children. For additional charges, see Hotel Policies. Please note that the additional guests will be accommodated on sofa beds in the living area.",
+					"name": "Family Suite",
+					"photos": "",
+					"block_id": "25769404_250434821_2_2_0",
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"room_id": 25769404,
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 211.65
+						},
+						{
+							"currency": "AUD",
+							"price": 423.3
+						},
+						{
+							"price": 634.95,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 846.6
+						},
+						{
+							"currency": "AUD",
+							"price": 1058.25
+						},
+						{
+							"currency": "AUD",
+							"price": 1269.9
+						},
+						{
+							"price": 1481.55,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1693.2
+						},
+						{
+							"price": 1904.85,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 2116.5
+						}
+					],
+					"is_flash_deal": false,
+					"breakfast_included": false,
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 211.65
+					},
+					"deposit_required": false,
+					"taxes": "10 % VAT"
+				},
+				{
+					"photos": "",
+					"block_id": "25769405_250434821_1_2_0",
+					"name": "Sage Suite - single occupancy",
+					"room_description": "Located on each corner of level 11, these luxurious open-plan suites feature a king zip bed or two king singles. It boasts a large balcony where you can relax and unwind as you enjoy spectacular views of Wollongong. The balcony has sun loungers, a 5 piece outdoor setting and a coffee table. The room offers a 40-inch flat-screen TV, floor to ceiling mirrors, an open lounge area and a spacious bathroom with a jet bath and double vanity.\n\nPlease note that this room has no capacity for additional guests.",
+					"max_occupancy": 1,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"refundable": true,
+					"room_id": 25769405,
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 237.15
+						},
+						{
+							"currency": "AUD",
+							"price": 474.3
+						},
+						{
+							"currency": "AUD",
+							"price": 711.45
+						},
+						{
+							"currency": "AUD",
+							"price": 948.6
+						}
+					],
+					"taxes": "10 % VAT",
+					"deposit_required": false,
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 237.15
+					},
+					"breakfast_included": false
+				},
+				{
+					"taxes": "10 % VAT",
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 237.15
+					},
+					"deposit_required": false,
+					"breakfast_included": false,
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 237.15
+						},
+						{
+							"currency": "AUD",
+							"price": 474.3
+						},
+						{
+							"price": 711.45,
+							"currency": "AUD"
+						},
+						{
+							"price": 948.6,
+							"currency": "AUD"
+						}
+					],
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"room_id": 25769405,
+					"name": "Sage Suite",
+					"photos": "",
+					"block_id": "25769405_250434821_2_2_0",
+					"max_occupancy": 2,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"room_description": "Located on each corner of level 11, these luxurious open-plan suites feature a king zip bed or two king singles. It boasts a large balcony where you can relax and unwind as you enjoy spectacular views of Wollongong. The balcony has sun loungers, a 5 piece outdoor setting and a coffee table. The room offers a 40-inch flat-screen TV, floor to ceiling mirrors, an open lounge area and a spacious bathroom with a jet bath and double vanity.\n\nPlease note that this room has no capacity for additional guests.",
+					"refundable": true
+				},
+				{
+					"breakfast_included": false,
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 245.65
+					},
+					"deposit_required": false,
+					"taxes": "10 % VAT",
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 245.65
+						},
+						{
+							"price": 491.3,
+							"currency": "AUD"
+						},
+						{
+							"price": 736.95,
+							"currency": "AUD"
+						},
+						{
+							"price": 982.6,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1228.25
+						},
+						{
+							"currency": "AUD",
+							"price": 1473.9
+						},
+						{
+							"price": 1719.55,
+							"currency": "AUD"
+						},
+						{
+							"price": 1965.2,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 2210.85
+						},
+						{
+							"price": 2456.5,
+							"currency": "AUD"
+						}
+					],
+					"is_flash_deal": false,
+					"room_id": 25769403,
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"refundable": true,
+					"room_description": "Located on the northern side of the hotel, these suites overlook Wollongong CBD and the escarpment. Stretch out and relax in this spacious room with 2 queen-sized beds. The rooms include a 40-inch flat screen TV and free WiFi. They offer tea and coffee making facilities including a coffee machine and a balcony. There is a double vanity in the spacious bathroom.\n\nPlease note that the price is based on 4 guests. Maximum occupancy is 5 (see Hotel Policies). The 5th guest will be accommodated on a rollaway bed. Extra beds are subject to availability and will be confirmed prior to arrival.\n\nPlease advise the property of the number of guests staying in each room. You can use the Special Requests box when booking, or contact the property prior to arrival using the contact details found on the booking confirmation.",
+					"max_occupancy": 3,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"photos": "",
+					"block_id": "25769403_250434821_3_2_0",
+					"name": "Executive Double Suite"
+				},
+				{
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 262.65
+						},
+						{
+							"currency": "AUD",
+							"price": 525.3
+						},
+						{
+							"price": 787.95,
+							"currency": "AUD"
+						},
+						{
+							"price": 1050.6,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1313.25
+						},
+						{
+							"price": 1575.9,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1838.55
+						},
+						{
+							"currency": "AUD",
+							"price": 2101.2
+						},
+						{
+							"currency": "AUD",
+							"price": 2363.85
+						},
+						{
+							"currency": "AUD",
+							"price": 2626.5
+						}
+					],
+					"is_flash_deal": false,
+					"breakfast_included": false,
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 262.65
+					},
+					"deposit_required": false,
+					"taxes": "10 % VAT",
+					"refundable": true,
+					"room_description": "Located on the northern side of the hotel overlooking Wollongong CBD and escarpment, these suites include a king-size bed, and a double sofa bed and a single sofa bed in a separate area. They offer a 40-inch flat-screen TV and a private balcony. The bedroom has an adjoining mini lounge area with a lounge set, second flat-screen TV. There is also a private balcony, basic kitchenette, fridge and 5 piece setting.\n\nPlease note that the rate is based on 2 adults. The maximum occupancy is 2 adults or 2 adults and 2 children. For additional charges, see Hotel Policies. Please note that the additional guests will be accommodated on sofa beds in the living area.",
+					"max_occupancy": 3,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"photos": "",
+					"block_id": "25769404_250434821_3_2_0",
+					"name": "Family Suite",
+					"room_id": 25769404,
+					"rack_rate": {
+						"currency": "AUD",
+						"price": 0.0
+					}
+				},
+				{
+					"taxes": "10 % VAT",
+					"deposit_required": false,
+					"min_price": {
+						"currency": "AUD",
+						"extra_charges_breakdown": {},
+						"price": 296.65
+					},
+					"breakfast_included": false,
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"currency": "AUD",
+							"extra_charges_breakdown": {},
+							"price": 296.65
+						},
+						{
+							"currency": "AUD",
+							"price": 593.3
+						},
+						{
+							"price": 889.95,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 1186.6
+						},
+						{
+							"currency": "AUD",
+							"price": 1483.25
+						},
+						{
+							"currency": "AUD",
+							"price": 1779.9
+						},
+						{
+							"price": 2076.55,
+							"currency": "AUD"
+						},
+						{
+							"price": 2373.2,
+							"currency": "AUD"
+						},
+						{
+							"price": 2669.85,
+							"currency": "AUD"
+						},
+						{
+							"price": 2966.5,
+							"currency": "AUD"
+						}
+					],
+					"rack_rate": {
+						"currency": "AUD",
+						"price": 0.0
+					},
+					"room_id": 25769403,
+					"name": "Executive Double Suite",
+					"photos": "",
+					"block_id": "25769403_250434821_4_2_0",
+					"max_occupancy": 4,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"room_description": "Located on the northern side of the hotel, these suites overlook Wollongong CBD and the escarpment. Stretch out and relax in this spacious room with 2 queen-sized beds. The rooms include a 40-inch flat screen TV and free WiFi. They offer tea and coffee making facilities including a coffee machine and a balcony. There is a double vanity in the spacious bathroom.\n\nPlease note that the price is based on 4 guests. Maximum occupancy is 5 (see Hotel Policies). The 5th guest will be accommodated on a rollaway bed. Extra beds are subject to availability and will be confirmed prior to arrival.\n\nPlease advise the property of the number of guests staying in each room. You can use the Special Requests box when booking, or contact the property prior to arrival using the contact details found on the booking confirmation.",
+					"refundable": true
+				},
+				{
+					"incremental_price": [
+						{
+							"price": 313.65,
+							"extra_charges_breakdown": {},
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 627.3
+						},
+						{
+							"currency": "AUD",
+							"price": 940.95
+						},
+						{
+							"currency": "AUD",
+							"price": 1254.6
+						},
+						{
+							"price": 1568.25,
+							"currency": "AUD"
+						},
+						{
+							"price": 1881.9,
+							"currency": "AUD"
+						},
+						{
+							"currency": "AUD",
+							"price": 2195.55
+						},
+						{
+							"currency": "AUD",
+							"price": 2509.2
+						},
+						{
+							"currency": "AUD",
+							"price": 2822.85
+						},
+						{
+							"price": 3136.5,
+							"currency": "AUD"
+						}
+					],
+					"is_flash_deal": false,
+					"breakfast_included": false,
+					"min_price": {
+						"price": 313.65,
+						"extra_charges_breakdown": {},
+						"currency": "AUD"
+					},
+					"deposit_required": false,
+					"taxes": "10 % VAT",
+					"refundable": true,
+					"max_occupancy": 4,
+					"refundable_until": "2021-04-03 23:59:59 +1100",
+					"room_description": "Located on the northern side of the hotel overlooking Wollongong CBD and escarpment, these suites include a king-size bed, and a double sofa bed and a single sofa bed in a separate area. They offer a 40-inch flat-screen TV and a private balcony. The bedroom has an adjoining mini lounge area with a lounge set, second flat-screen TV. There is also a private balcony, basic kitchenette, fridge and 5 piece setting.\n\nPlease note that the rate is based on 2 adults. The maximum occupancy is 2 adults or 2 adults and 2 children. For additional charges, see Hotel Policies. Please note that the additional guests will be accommodated on sofa beds in the living area.",
+					"name": "Family Suite",
+					"block_id": "25769404_250434821_4_2_0",
+					"photos": "",
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "AUD"
+					},
+					"room_id": 25769404
+				}
+			],
+			"direct_payment": true,
+			"hotel_url": "https://www.booking.com/hotel/au/chifley-wollongong.en-gb.html?aid=2068743&checkin=2021-04-05&checkout=2021-04-06&room1=A",
+			"checkout": "2021-04-06"
+		}
+	]
+}

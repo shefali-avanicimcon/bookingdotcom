@@ -1,0 +1,940 @@
+{
+	"meta": {
+		"ruid": "UmFuZG9tSVYkc2RlIyh9YYJ79GofoiDJg+0HO4Ef/G3zN4wJ1rtLd8UOGNh5+EmVRzcEFcwW+tu106fygR+NtkhM4Jyr4sQ5DAR3SLxr6mM="
+	},
+	"result": [
+		{
+			"is_flash_deal": false,
+			"hotel_id": 3882311,
+			"checkin": "2021-04-05",
+			"hotel_url": "https://www.booking.com/hotel/nl/demand-api-test-1.en-gb.html?aid=2068743&checkin=2021-04-05&checkout=2021-04-06&room1=A",
+			"checkout": "2021-04-06",
+			"block": [
+				{
+					"is_flash_deal": false,
+					"room_description": "",
+					"incremental_price": [
+						{
+							"extra_charges_breakdown": {},
+							"price": 31.5,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 63.0
+						},
+						{
+							"price": 94.5,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 126.0
+						},
+						{
+							"currency": "EUR",
+							"price": 157.5
+						},
+						{
+							"currency": "EUR",
+							"price": 189.0
+						},
+						{
+							"price": 220.5,
+							"currency": "EUR"
+						},
+						{
+							"price": 252.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 283.5
+						},
+						{
+							"price": 315.0,
+							"currency": "EUR"
+						}
+					],
+					"max_occupancy": 10,
+					"min_price": {
+						"extra_charges_breakdown": {},
+						"price": 31.5,
+						"currency": "EUR"
+					},
+					"block_id": "388231106_276255000_10_2_0",
+					"deposit_required": false,
+					"taxes": "5 % City tax",
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "EUR"
+					},
+					"refundable_until": "",
+					"breakfast_included": false,
+					"room_id": 388231106,
+					"refundable": false,
+					"name": "10-Bed Mixed Dormitory Room - Non-refundable",
+					"photos": ""
+				},
+				{
+					"photos": "",
+					"name": "10-Bed Mixed Dormitory Room",
+					"refundable": true,
+					"room_id": 388231106,
+					"refundable_until": "2021-04-02 23:59:59 +0200",
+					"breakfast_included": false,
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "EUR"
+					},
+					"block_id": "388231106_276255574_10_2_0",
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"max_occupancy": 10,
+					"room_description": "",
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"price": 34.65,
+							"currency": "EUR",
+							"extra_charges_breakdown": {}
+						},
+						{
+							"price": 69.3,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 103.95
+						},
+						{
+							"currency": "EUR",
+							"price": 138.6
+						},
+						{
+							"currency": "EUR",
+							"price": 173.25
+						},
+						{
+							"currency": "EUR",
+							"price": 207.9
+						},
+						{
+							"currency": "EUR",
+							"price": 242.55
+						},
+						{
+							"price": 277.2,
+							"currency": "EUR"
+						},
+						{
+							"price": 311.85,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 346.5
+						}
+					],
+					"min_price": {
+						"price": 34.65,
+						"currency": "EUR",
+						"extra_charges_breakdown": {}
+					}
+				},
+				{
+					"breakfast_included": false,
+					"refundable_until": "",
+					"refundable": false,
+					"room_id": 388231101,
+					"name": "Single Room - Non-refundable",
+					"photos": "",
+					"min_price": {
+						"extra_charges_breakdown": {},
+						"price": 49.88,
+						"currency": "EUR"
+					},
+					"max_occupancy": 1,
+					"room_description": "",
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"extra_charges_breakdown": {},
+							"price": 49.88,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 99.75
+						},
+						{
+							"price": 149.63,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 199.5
+						},
+						{
+							"currency": "EUR",
+							"price": 249.38
+						},
+						{
+							"price": 299.25,
+							"currency": "EUR"
+						},
+						{
+							"price": 349.13,
+							"currency": "EUR"
+						},
+						{
+							"price": 399.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 448.88
+						},
+						{
+							"price": 498.75,
+							"currency": "EUR"
+						}
+					],
+					"taxes": "5 % City tax",
+					"deposit_required": true,
+					"block_id": "388231101_122001365_1_2_0",
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					}
+				},
+				{
+					"refundable_until": "",
+					"breakfast_included": false,
+					"refundable": false,
+					"room_id": 388231101,
+					"name": "Single Room - Non-refundable",
+					"photos": "",
+					"max_occupancy": 1,
+					"is_flash_deal": false,
+					"room_description": "",
+					"incremental_price": [
+						{
+							"price": 52.5,
+							"currency": "EUR",
+							"extra_charges_breakdown": {}
+						},
+						{
+							"price": 105.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 157.5
+						},
+						{
+							"currency": "EUR",
+							"price": 210.0
+						},
+						{
+							"currency": "EUR",
+							"price": 262.5
+						},
+						{
+							"currency": "EUR",
+							"price": 315.0
+						},
+						{
+							"currency": "EUR",
+							"price": 367.5
+						},
+						{
+							"price": 420.0,
+							"currency": "EUR"
+						},
+						{
+							"price": 472.5,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 525.0
+						}
+					],
+					"min_price": {
+						"price": 52.5,
+						"currency": "EUR",
+						"extra_charges_breakdown": {}
+					},
+					"block_id": "388231101_276255000_1_2_0",
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "EUR"
+					}
+				},
+				{
+					"room_id": 388231101,
+					"refundable": true,
+					"refundable_until": "2021-04-02 23:59:59 +0200",
+					"breakfast_included": false,
+					"photos": "",
+					"name": "Single Room",
+					"block_id": "388231101_276255574_1_2_0",
+					"deposit_required": false,
+					"taxes": "5 % City tax",
+					"room_description": "",
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"price": 57.75,
+							"currency": "EUR",
+							"extra_charges_breakdown": {}
+						},
+						{
+							"price": 115.5,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 173.25
+						},
+						{
+							"currency": "EUR",
+							"price": 231.0
+						},
+						{
+							"price": 288.75,
+							"currency": "EUR"
+						},
+						{
+							"price": 346.5,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 404.25
+						},
+						{
+							"currency": "EUR",
+							"price": 462.0
+						},
+						{
+							"currency": "EUR",
+							"price": 519.75
+						},
+						{
+							"currency": "EUR",
+							"price": 577.5
+						}
+					],
+					"max_occupancy": 1,
+					"min_price": {
+						"price": 57.75,
+						"currency": "EUR",
+						"extra_charges_breakdown": {}
+					},
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "EUR"
+					}
+				},
+				{
+					"taxes": "5 % City tax",
+					"deposit_required": true,
+					"block_id": "388231102_122001365_2_2_0",
+					"min_price": {
+						"price": 69.83,
+						"currency": "EUR",
+						"extra_charges_breakdown": {}
+					},
+					"max_occupancy": 2,
+					"incremental_price": [
+						{
+							"price": 69.83,
+							"currency": "EUR",
+							"extra_charges_breakdown": {}
+						},
+						{
+							"currency": "EUR",
+							"price": 139.65
+						},
+						{
+							"currency": "EUR",
+							"price": 209.48
+						},
+						{
+							"currency": "EUR",
+							"price": 279.3
+						},
+						{
+							"currency": "EUR",
+							"price": 349.13
+						},
+						{
+							"price": 418.95,
+							"currency": "EUR"
+						},
+						{
+							"price": 488.77,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 558.6
+						},
+						{
+							"currency": "EUR",
+							"price": 628.43
+						},
+						{
+							"currency": "EUR",
+							"price": 698.25
+						}
+					],
+					"is_flash_deal": false,
+					"room_description": "",
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					},
+					"refundable": false,
+					"room_id": 388231102,
+					"breakfast_included": false,
+					"refundable_until": "",
+					"photos": "",
+					"name": "Double Room - Non-refundable"
+				},
+				{
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					},
+					"block_id": "388231102_276255000_2_2_0",
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"max_occupancy": 2,
+					"is_flash_deal": false,
+					"room_description": "",
+					"incremental_price": [
+						{
+							"extra_charges_breakdown": {},
+							"currency": "EUR",
+							"price": 73.5
+						},
+						{
+							"price": 147.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 220.5
+						},
+						{
+							"currency": "EUR",
+							"price": 294.0
+						},
+						{
+							"price": 367.5,
+							"currency": "EUR"
+						},
+						{
+							"price": 441.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 514.5
+						},
+						{
+							"price": 588.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 661.5
+						},
+						{
+							"price": 735.0,
+							"currency": "EUR"
+						}
+					],
+					"min_price": {
+						"extra_charges_breakdown": {},
+						"currency": "EUR",
+						"price": 73.5
+					},
+					"photos": "",
+					"name": "Double Room - Non-refundable",
+					"refundable": false,
+					"room_id": 388231102,
+					"refundable_until": "",
+					"breakfast_included": false
+				},
+				{
+					"block_id": "388231102_276255574_2_2_0",
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"max_occupancy": 2,
+					"room_description": "",
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"currency": "EUR",
+							"price": 80.85,
+							"extra_charges_breakdown": {}
+						},
+						{
+							"currency": "EUR",
+							"price": 161.7
+						},
+						{
+							"currency": "EUR",
+							"price": 242.55
+						},
+						{
+							"currency": "EUR",
+							"price": 323.4
+						},
+						{
+							"price": 404.25,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 485.1
+						},
+						{
+							"currency": "EUR",
+							"price": 565.95
+						},
+						{
+							"currency": "EUR",
+							"price": 646.8
+						},
+						{
+							"price": 727.65,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 808.5
+						}
+					],
+					"min_price": {
+						"currency": "EUR",
+						"price": 80.85,
+						"extra_charges_breakdown": {}
+					},
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					},
+					"refundable": true,
+					"room_id": 388231102,
+					"refundable_until": "2021-04-02 23:59:59 +0200",
+					"breakfast_included": false,
+					"photos": "",
+					"name": "Double Room"
+				},
+				{
+					"refundable": false,
+					"room_id": 388231105,
+					"breakfast_included": false,
+					"refundable_until": "",
+					"photos": "",
+					"name": "Deluxe Double Room - Non-refundable",
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"block_id": "388231105_276255000_2_2_0",
+					"min_price": {
+						"extra_charges_breakdown": {},
+						"price": 81.9,
+						"currency": "EUR"
+					},
+					"max_occupancy": 2,
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"extra_charges_breakdown": {},
+							"price": 81.9,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 163.8
+						},
+						{
+							"currency": "EUR",
+							"price": 245.7
+						},
+						{
+							"price": 327.6,
+							"currency": "EUR"
+						},
+						{
+							"price": 409.5,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 491.4
+						},
+						{
+							"currency": "EUR",
+							"price": 573.3
+						},
+						{
+							"price": 655.2,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 737.1
+						},
+						{
+							"price": 819.0,
+							"currency": "EUR"
+						}
+					],
+					"room_description": "",
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					}
+				},
+				{
+					"min_price": {
+						"extra_charges_breakdown": {},
+						"price": 84.0,
+						"currency": "EUR"
+					},
+					"max_occupancy": 4,
+					"room_description": "",
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"extra_charges_breakdown": {},
+							"price": 84.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 168.0
+						},
+						{
+							"price": 252.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 336.0
+						},
+						{
+							"price": 420.0,
+							"currency": "EUR"
+						},
+						{
+							"price": 504.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 588.0
+						},
+						{
+							"price": 672.0,
+							"currency": "EUR"
+						},
+						{
+							"price": 756.0,
+							"currency": "EUR"
+						},
+						{
+							"price": 840.0,
+							"currency": "EUR"
+						}
+					],
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"block_id": "388231104_276255000_4_2_0",
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					},
+					"breakfast_included": false,
+					"refundable_until": "",
+					"refundable": false,
+					"room_id": 388231104,
+					"name": "Apartment with Balcony - Non-refundable",
+					"photos": ""
+				},
+				{
+					"refundable": false,
+					"room_id": 388231107,
+					"refundable_until": "",
+					"breakfast_included": false,
+					"photos": "",
+					"name": "Superior Studio - Non-refundable",
+					"block_id": "388231107_276255000_2_2_0",
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"max_occupancy": 2,
+					"room_description": "",
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"extra_charges_breakdown": {},
+							"price": 89.25,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 178.5
+						},
+						{
+							"currency": "EUR",
+							"price": 267.75
+						},
+						{
+							"currency": "EUR",
+							"price": 357.0
+						},
+						{
+							"currency": "EUR",
+							"price": 446.25
+						},
+						{
+							"currency": "EUR",
+							"price": 535.5
+						},
+						{
+							"price": 624.75,
+							"currency": "EUR"
+						},
+						{
+							"price": 714.0,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 803.25
+						},
+						{
+							"currency": "EUR",
+							"price": 892.5
+						}
+					],
+					"min_price": {
+						"extra_charges_breakdown": {},
+						"price": 89.25,
+						"currency": "EUR"
+					},
+					"rack_rate": {
+						"price": 0.0,
+						"currency": "EUR"
+					}
+				},
+				{
+					"photos": "",
+					"name": "Deluxe Double Room",
+					"room_id": 388231105,
+					"refundable": true,
+					"breakfast_included": false,
+					"refundable_until": "2021-04-02 23:59:59 +0200",
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					},
+					"deposit_required": false,
+					"taxes": "5 % City tax",
+					"block_id": "388231105_276255574_2_2_0",
+					"min_price": {
+						"extra_charges_breakdown": {},
+						"currency": "EUR",
+						"price": 90.09
+					},
+					"is_flash_deal": false,
+					"room_description": "",
+					"incremental_price": [
+						{
+							"extra_charges_breakdown": {},
+							"currency": "EUR",
+							"price": 90.09
+						},
+						{
+							"currency": "EUR",
+							"price": 180.18
+						},
+						{
+							"currency": "EUR",
+							"price": 270.27
+						},
+						{
+							"currency": "EUR",
+							"price": 360.36
+						},
+						{
+							"currency": "EUR",
+							"price": 450.45
+						},
+						{
+							"price": 540.54,
+							"currency": "EUR"
+						},
+						{
+							"price": 630.63,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 720.72
+						},
+						{
+							"currency": "EUR",
+							"price": 810.81
+						},
+						{
+							"currency": "EUR",
+							"price": 900.9
+						}
+					],
+					"max_occupancy": 2
+				},
+				{
+					"breakfast_included": false,
+					"refundable_until": "2021-04-02 23:59:59 +0200",
+					"refundable": true,
+					"room_id": 388231104,
+					"name": "Apartment with Balcony",
+					"photos": "",
+					"min_price": {
+						"currency": "EUR",
+						"price": 92.4,
+						"extra_charges_breakdown": {}
+					},
+					"max_occupancy": 4,
+					"incremental_price": [
+						{
+							"currency": "EUR",
+							"price": 92.4,
+							"extra_charges_breakdown": {}
+						},
+						{
+							"currency": "EUR",
+							"price": 184.8
+						},
+						{
+							"currency": "EUR",
+							"price": 277.2
+						},
+						{
+							"currency": "EUR",
+							"price": 369.6
+						},
+						{
+							"price": 462.0,
+							"currency": "EUR"
+						},
+						{
+							"price": 554.4,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 646.8
+						},
+						{
+							"currency": "EUR",
+							"price": 739.2
+						},
+						{
+							"price": 831.6,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 924.0
+						}
+					],
+					"is_flash_deal": false,
+					"room_description": "",
+					"taxes": "5 % City tax",
+					"deposit_required": false,
+					"block_id": "388231104_276255574_4_2_0",
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					}
+				},
+				{
+					"rack_rate": {
+						"currency": "EUR",
+						"price": 0.0
+					},
+					"deposit_required": false,
+					"taxes": "5 % City tax",
+					"block_id": "388231107_276255574_2_2_0",
+					"min_price": {
+						"currency": "EUR",
+						"price": 98.17,
+						"extra_charges_breakdown": {}
+					},
+					"room_description": "",
+					"is_flash_deal": false,
+					"incremental_price": [
+						{
+							"currency": "EUR",
+							"price": 98.17,
+							"extra_charges_breakdown": {}
+						},
+						{
+							"currency": "EUR",
+							"price": 196.35
+						},
+						{
+							"currency": "EUR",
+							"price": 294.52
+						},
+						{
+							"price": 392.7,
+							"currency": "EUR"
+						},
+						{
+							"price": 490.88,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 589.05
+						},
+						{
+							"price": 687.22,
+							"currency": "EUR"
+						},
+						{
+							"currency": "EUR",
+							"price": 785.4
+						},
+						{
+							"currency": "EUR",
+							"price": 883.57
+						},
+						{
+							"currency": "EUR",
+							"price": 981.75
+						}
+					],
+					"max_occupancy": 2,
+					"photos": "",
+					"name": "Superior Studio",
+					"room_id": 388231107,
+					"refundable": true,
+					"breakfast_included": false,
+					"refundable_until": "2021-04-02 23:59:59 +0200"
+				}
+			]
+		}
+	]
+}
